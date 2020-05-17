@@ -8,3 +8,5 @@ else
     mkdir algumdiretorio
     echo "mkdir executado com sucesso!" 
 fi
+
+ipconfig

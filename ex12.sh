@@ -1,10 +1,7 @@
 #!/bin/bash
 
-
-#2 . Qual a sequência de comandos para se obter uma listagem
-#dos usuários da máquina. As informações podem ser obtidas no
-#arquivo /etc/passwd. 
-
+# SLIDE 31
+# Exercício 2 
 
 echo "Lista de usuários:"
 cat /etc/passwd | cut -d: -f1

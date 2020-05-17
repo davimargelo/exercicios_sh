@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# SLIDE 86
+# Exercício 1
+
 current_time=$(date +%H)
 
 if (("$current_time" >= "06")) && (("$current_time" <= "12")); then

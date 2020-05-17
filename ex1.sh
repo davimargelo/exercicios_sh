@@ -1,5 +1,8 @@
 #! /bin/bash
 
+# SLIDE 11
+# Exercício 1
+
 echo 'Listando diretórios...'
 ls
 

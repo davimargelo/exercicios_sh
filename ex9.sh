@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# SLIDE 75
+# Exercício 8
+
 while true
 do
 	clear

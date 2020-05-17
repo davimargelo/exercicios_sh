@@ -1,7 +1,6 @@
 #!/bin/bash
-#
+
 #Exercicio do slide 62
-#
 
 read -p "digite um número: " V2
 read -p "digite outro número: " V1

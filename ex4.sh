@@ -1,4 +1,8 @@
-#!/bin/bash    
+#!/bin/bash  
+
+# SLIDE 86
+# Exercício 3 (Crie um script para fazer ordenar 3 números)
+
 sort () {
     for ((i=0; i <= $((${#arr[@]} - 2)); ++i))
     do
